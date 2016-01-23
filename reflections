@@ -1,0 +1,19 @@
+January 21, 2015 - GIT
+
+git commands
+
+git clone [http address of repository]
+	-saves files onto your drive in the folder that you were in when you made the command
+
+git log
+	-gives log of all commits made on a repository (i assume you have to be in the directory of a repository for it to work)
+
+git diff [id1, id2]
+	-shows additions and deletions between two commits based on commit id (found in git log)
+
+git checkout [id]
+	-checks out a commit so that it is now the active file
+
+git init
+	-initializes new repository
+
